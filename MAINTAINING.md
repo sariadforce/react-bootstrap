@@ -13,7 +13,7 @@ can use a component, or install React-Bootstrap), close and link duplicates,
 answer questions, etc. Please alert the
 [reactiflux#react-bootstrap](https://discord.gg/AKfs9vpvRW) chat room of
 the urgent issues.
-
+  let setUseClient = false;
 Some issues are opened that are just too vague to do anything about. If after
 attempting to get feedback from issue authors fails after 7 days, then close the
 issue. Please inform the issue author that they may re-open if they are able to
